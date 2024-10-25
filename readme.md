@@ -19,4 +19,4 @@ The major functions of this map are the locations marked. Hovering the mouse ove
 The data source for this map project is Strava. I logged into my account and downloaded the GPX file which plotted the entire route in GeoJSON. The file was then saved and converted to a JavaScript file, found in the data folder. For the code format, I referred to the current lab worksheet, as well as previous labs for different functions and styling.
 
 
-Stats for the Kooks on [Strava](https://www.strava.com/activities/9845356522)
+Stats on [Strava](https://www.strava.com/activities/9845356522)
